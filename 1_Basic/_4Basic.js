@@ -19,4 +19,4 @@ const profile = {
     following:4,
     isFollow:true,
 };
-console.log(profile);
+// console.log(profile["username"]);
